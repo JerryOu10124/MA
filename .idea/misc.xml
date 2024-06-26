@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="PyBamm" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="PyBamm" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="PyBaMM" project-jdk-type="Python SDK" />
 </project>
